@@ -1,0 +1,24 @@
+{
+  "name": "19-api",
+  "version": "1.0.0",
+  "description": "## Message Queue Server",
+  "main": "index.js",
+  "dependencies": {
+    "@nmq/q": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-jv/19-api.git"
+  },
+  "keywords": [],
+  "author": "Jesse Van Volkinburg <vanvoljg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-jv/19-api/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-jv/19-api#readme"
+}
