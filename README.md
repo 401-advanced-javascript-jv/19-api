@@ -1,6 +1,6 @@
 # LAB - 19
 
-## Message Queue Server
+## Message Queue - API Server
 
 ### Author: Jesse Van Volkinburg
 
@@ -18,5 +18,4 @@
 
 #### Tests
 * `npm test` to run tests
-* All tests need to be run, still
 
