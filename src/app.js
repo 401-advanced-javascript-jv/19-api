@@ -29,6 +29,9 @@ app.use((request, response, next) => {
 app.use(express.json());
 app.use(express.urlencoded({extended:true}));
 
+// Docs
+app.use('/docs', express.static('docs'));
+
 // Routes
 app.use('/api/v1', apiRoutes);
 

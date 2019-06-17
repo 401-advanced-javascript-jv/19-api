@@ -6,7 +6,7 @@
  * @requires mongoose
  * @requires mongoose-schema-jsonschema
  */
-// const players = require('../players/players-schema.js'); // eslint-disable-line
+const players = require('../players/players-schema.js'); // eslint-disable-line
 const mongoose = require('mongoose');
 require('mongoose-schema-jsonschema')(mongoose);
 
